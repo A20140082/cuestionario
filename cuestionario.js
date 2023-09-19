@@ -1,0 +1,2 @@
+var nombre = prompt("Esta es la Trivia de la primavera. Escribe tu nombre:");
+var p1 = prompt("¿Cómo se llama al primer dia de primavera?\nA: Primer Día de la Primavera\nB: Equinoccio de Primavera\nC: Equinoccio de Invierno");
